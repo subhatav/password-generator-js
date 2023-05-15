@@ -1,2 +1,31 @@
-# password-generator-js
-Generate passwords for your accounts!
+# Password Generator
+
+This *minimalistic* **tool** is:
+
+* *responsive* **password** *generator*;
+* *usable* on all **devices** (mobiles/desktops);
+* *built* using **HTML**, **CSS**, and **JavaScript**.
+
+<hr/>
+
+## Requirement
+
+[Git](https://git-scm.com/downloads "Download Git") must be **installed** on the *local* **system**.
+
+<hr/>
+
+## Installation
+
+1. To **run** it *locally*, **enter** this *command* in the **terminal**:
+
+```bash
+git clone https://github.com/subhatav/password-generator-js.git
+```
+
+1. Find and **open** the "*index.html*" file to **generate** *passwords*.
+
+<hr/>
+
+**Thank** you for *using* it!
+
+<hr/>
